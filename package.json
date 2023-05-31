@@ -1,12 +1,12 @@
 {
   "name": "gb-redis",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "global redis",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bandcap/redis.git"
+    "url": "git+https://github.com/bandcap/gb-redis.git"
   },
   "keywords": [
     "redis"
@@ -14,9 +14,9 @@
   "author": "BandCamp",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bandcap/redis/issues"
+    "url": "https://github.com/bandcap/gb-redis/issues"
   },
-  "homepage": "https://github.com/bandcap/redis#readme",
+  "homepage": "https://github.com/bandcap/gb-redis#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
     "ioredis": "^5.3.1"
