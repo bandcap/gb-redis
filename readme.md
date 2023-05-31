@@ -16,3 +16,7 @@ npm i gb-redis
 ```sh
 REDIS_URI='redis://******.redis.rds.aliyuncs.com:6379/9'
 ```
+
+## 开发
+
+使用 dotenv 处理环境变量： https://github.com/motdotla/dotenv
